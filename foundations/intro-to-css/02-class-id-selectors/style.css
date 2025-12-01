@@ -1,1 +1,22 @@
 /* Add CSS Styling */
+.p15 {
+    background-color: rgb(224, 138, 153);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#d2 {
+    color:blue;
+    font-size: 32px;
+}
+
+.p3 {
+    background-color: rgb(224, 138, 153);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    font-size: 24px;
+}
+
+#d4 {
+    background-color: rgb(121, 206, 121);
+    font-size: 24px;
+    font-weight: bold;
+}
